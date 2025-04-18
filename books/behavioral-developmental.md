@@ -6,25 +6,7 @@ A curated list of books and resources focusing on behavioral and developmental p
 
 ## 🌟 **Recommended Books**
 
-### 1. **Developmental-Behavioral Pediatrics**
-   - **Description**: A comprehensive resource that aligns pediatric care with behavioral and developmental disorders, providing clinical strategies for managing cases.
-
-      ```bibtex
-      @BOOK{Feldman2022-cg,
-        title     = "Developmental-behavioral pediatrics",
-        editor    = "Feldman, Heidi M and Elias, Ellen Roy and Blum, Nathan J and
-                     Jimenez, Manuel and Stancin, Terry",
-        publisher = "Elsevier - Health Sciences Division",
-        edition   =  5,
-        month     =  dec,
-        year      =  2022,
-        address   = "Philadelphia, PA",
-        language  = "en"
-      }
-
----
-
-### 2. **Capute and Accardo's Neurodevelopmental Disabilities in Infancy and Childhood**
+### 1. **Capute and Accardo's Neurodevelopmental Disabilities in Infancy and Childhood**
    - **Description**: Provides updated foundational, theoretical, and practical knowledge on the spectrum and continuum of neurodevelopmental disabilities shaped by ongoing advances in neuroscience and related disciplines.
    
       ```bibtex
@@ -37,6 +19,24 @@ A curated list of books and resources focusing on behavioral and developmental p
         month     =  nov,
         year      =  2024,
         address   = "San Diego, CA",
+        language  = "en"
+      }
+
+---
+
+### 2. **Developmental-Behavioral Pediatrics**
+   - **Description**: A comprehensive resource that aligns pediatric care with behavioral and developmental disorders, providing clinical strategies for managing cases.
+
+      ```bibtex
+      @BOOK{Feldman2022-cg,
+        title     = "Developmental-behavioral pediatrics",
+        editor    = "Feldman, Heidi M and Elias, Ellen Roy and Blum, Nathan J and
+                     Jimenez, Manuel and Stancin, Terry",
+        publisher = "Elsevier - Health Sciences Division",
+        edition   =  5,
+        month     =  dec,
+        year      =  2022,
+        address   = "Philadelphia, PA",
         language  = "en"
       }
 
