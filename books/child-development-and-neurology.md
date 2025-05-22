@@ -1,14 +1,18 @@
 # 📖 Behavioral and Developmental Pediatrics 📚
 
-A curated list of books and resources focusing on behavioral and developmental pediatrics, offering insights into child psychology, growth milestones, and interventions for developmental challenges.
+A curated list of books and resources focusing on behavioral and developmental
+pediatrics, offering insights into child psychology, growth milestones, and
+interventions for developmental challenges.
 
 ---
 
 ## 🌟 **Recommended Books**
 
 ### 1. **Capute and Accardo's Neurodevelopmental Disabilities in Infancy and Childhood**
-   - **Description**: Provides updated foundational, theoretical, and practical knowledge on the spectrum and continuum of neurodevelopmental disabilities shaped by ongoing advances in neuroscience and related disciplines.
-   
+   - **Description**: Provides updated foundational, theoretical, and practical
+   knowledge on the spectrum and continuum of neurodevelopmental disabilities
+   shaped by ongoing advances in neuroscience and related disciplines.
+
       ```bibtex
       @BOOK{Ismail2024-eg,
         title     = "Capute and accardo's neurodevelopmental disabilities in infancy
@@ -25,7 +29,9 @@ A curated list of books and resources focusing on behavioral and developmental p
 ---
 
 ### 2. **Developmental-Behavioral Pediatrics**
-   - **Description**: A comprehensive resource that aligns pediatric care with behavioral and developmental disorders, providing clinical strategies for managing cases.
+   - **Description**: A comprehensive resource that aligns pediatric care with
+   behavioral and developmental disorders, providing clinical strategies for
+   managing cases.
 
       ```bibtex
       @BOOK{Feldman2022-cg,
@@ -44,7 +50,9 @@ A curated list of books and resources focusing on behavioral and developmental p
 
 ## 📌 **Why These Books?**
 
-These books are selected based on their relevance to developmental pediatrics and their practical application for medical professionals, caregivers, and families. They cover a range of topics, including:
+These books are selected based on their relevance to developmental pediatrics
+and their practical application for medical professionals, caregivers, and
+families. They cover a range of topics, including:
 - Child developmental milestones
 - Behavioral health challenges
 - Interventions and therapeutic strategies
@@ -54,6 +62,7 @@ These books are selected based on their relevance to developmental pediatrics an
 
 ## 📎 **Contribute**
 
-Do you have a resource that should be included here? Open a pull request or submit an issue with your suggestion!
+Do you have a resource that should be included here? Open a pull request or
+submit an issue with your suggestion!
 
 ---
