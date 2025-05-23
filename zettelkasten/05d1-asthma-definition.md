@@ -7,4 +7,5 @@ inflammation. It is defined by the history of respiratory symptoms, such as
 wheeze, shortness of breath, chest tightness and cough, that vary over time and
 in intensity, together with variable expiratory airflow.
 
+### Related notes and tags
 #asthma

@@ -1,6 +1,6 @@
-# {{title}}
+# Risk factors for HIV acquisition
 
-{{content}}
+
 
 ## Related Notes 󰎚
 <!-- Links to related zettelkasten notes -->
@@ -12,4 +12,4 @@
 #medicine
 
 ---
- *Author: {{extra.author}}*
+ *Author: Daniel*

@@ -37,5 +37,6 @@ persistent or incompletely responsive to treatment.
 Some obese patients with asthma have prominent respiratory symptoms and a
 different pattern of airway inflammation, with little eosinophilic inflammation.
 
-#asthma
+### Related notes and tags
 [[05d1-asthma-definition]]
+#asthma
