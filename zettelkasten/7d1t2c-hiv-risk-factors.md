@@ -1,6 +1,6 @@
-# {{title}}
+# HIV: Risk factors
 
-{{content}}
+
 
 ## 🔗 Related Notes
 <!-- Links to related zettelkasten notes -->
@@ -9,7 +9,7 @@
 <!-- Scientific sources, guidelines, studies -->
 
 ## 🏷️ Tags
-#medicine
+#hiv #risk #medicine
 
 ---
-**Author:** {{extra.author}}
+**Author:** Daniel

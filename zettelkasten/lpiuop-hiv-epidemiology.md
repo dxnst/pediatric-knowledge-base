@@ -1,5 +1,4 @@
-# HIV epidemiology
-
+# HIV: Epidemiology
 ## HIV global prevalence
 According to [UNAIDS](https://www.unaids.org/sites/default/files/media_asset/UNAIDS_FactSheet_en.pdf) in the year 2023, there were 39,900,000 people living with HIV globally.
 - People living with HIV - Children (0-14): 1,400,000
@@ -22,6 +21,14 @@ According to [OPS](https://www.paho.org/es/noticias/4-12-2023-vih-guatemala-desa
 - People living with HIV - All ages: 46,600
 - People living with HIV - Children (0-14): 1,700
 
-### Related notes and tags
-#HIV #Epidemiology
+## 🔗 Related Notes
+<!-- Links to related zettelkasten notes -->
 
+## 📚 References
+<!-- Scientific sources, guidelines, studies -->
+
+## 🏷️ Tags
+#hiv #aids #epidemiology #medicine
+
+---
+**Author:** Daniel
